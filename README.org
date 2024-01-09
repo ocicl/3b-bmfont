@@ -4,6 +4,6 @@ read/write bmfont metadata files
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/3b/3b-bmfont.git |
-| commit  | 332c226                                 |
+| commit  | 056025a                                 |
 | systems | 3b-bmfont                               |
 |---------+-----------------------------------------|
